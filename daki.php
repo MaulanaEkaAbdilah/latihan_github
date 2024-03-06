@@ -1,5 +1,9 @@
 <html>
   <head>
-  echo "nama saya ahmad nur rosid nii boos senggol doong";
+  <?php
+echo "maulana eka abdilah";
+echo "rosid";
+?>
+    
   </head>
 </html>
